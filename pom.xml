@@ -8,6 +8,10 @@
     <name>use-java-snippets</name>
     <url>http://maven.apache.org</url>
 
+    <properties>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+    </properties>
     <repositories>
         <repository>
             <id>github</id>
