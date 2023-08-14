@@ -19,8 +19,6 @@
             <url>https://maven.pkg.github.com/liweinan/java-snippets</url>
         </repository>
     </repositories>
-
-
     <dependencies>
         <dependency>
             <groupId>io.weli</groupId>
